@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Local Partnership",
+    "description": "We partner with local restaurants to deliver food to nearby communities.",
+    "image": "images/features/noun_branding_1885335.svg"
+  },
+  {
+    "title": "Eco-Friendly",
+    "description": "Our services reduce local food waste by over 35%*.",
+    "image": "images/features/noun_The Process_1885341.svg"
+  },
+  {
+    "title": "Cost Value",
+    "description": "We help local restaurants recoup otherwise lost revenue and community members eat quality ingredients at a lower than market rate.",
+    "image": "images/features/noun_3d modeling_1885342.svg"
+    
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Instagram",
+    "link": "https://instagram",
+    "image": "images/social/instagram.svg"
+  },
+  {
+    "name": "Twitter",
+    "link": "https://twitter.com",
+    "image": "images/social/twitter.svg"
+  }
+]
