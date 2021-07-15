@@ -46,6 +46,9 @@ Preferred Experience:
 * Experience with completing employee tickets and handling employee issues. 
 * Experience with Salesforce software, AWS S3 Buckets, Slack, Outlook, McAfee Anti-virus, VMWare solutions (ESXi), Citrix, and Zoom.
 
+Benefits:
+Find out more about our benefits [here](https://leftoverlunch-intra.s3.us-east-1.amazonaws.com/benefits/401kbenefits.pdf)!
+
 ---
 
 ## Physical Security Guard
