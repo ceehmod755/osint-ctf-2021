@@ -1,12 +1,14 @@
 ---
-title: "Sage Kirk"
+title: "Joseph Maxwell"
 date: 2018-11-19T10:47:58+10:00
 draft: false
 image: "images/team/sage-kirk-485982-unsplash.jpg"
-jobtitle: "Vice President, Accounting"
+jobtitle: "Program Manager"
 promoted: true
 weight: 3
 layout: team
 ---
 
-Sage has been critical to making the balance of food delivery and cost valuable for both the our partner restaurants and local users. 
+When he's not working on his LinkedIn profile, Joseph enjoys working on Leftover Lunch Initiatives! *
+
+*Note: Need to update Summer 2021
